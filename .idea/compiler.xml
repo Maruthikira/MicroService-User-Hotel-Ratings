@@ -20,7 +20,7 @@
         <module name="Serviceregistry" />
         <module name="UserService" />
       </profile>
-      <profile name="Annotation profile for ApiGateway" enabled="true">
+      <profile name="Annotation profile for ConfigServer" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
